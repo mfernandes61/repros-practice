@@ -9,4 +9,6 @@ Repo for students to practice commits &amp; forking
 2) Trainer REMOVES students from collaborators and then we can simulate
 external authors by forking this repository
 
-Get the students to edit text with Markdown elements tomake it look more like the version of article on the web https://www.technologynetworks.com/genomics/articles/rna-seq-basics-applications-and-protocol-299461 
+Get the students to edit text with Markdown elements tomake it look more like the version of article on the web 
+RNAseq: https://www.technologynetworks.com/genomics/articles/rna-seq-basics-applications-and-protocol-299461 \
+Cell culture: https://www.technologynetworks.com/genomics/articles/cell-culture-quality-control-the-key-to-reproducibility-361872
